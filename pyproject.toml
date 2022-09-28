@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "uml-generator"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.readme.md"
+packages = [{include = "uml_generator", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
