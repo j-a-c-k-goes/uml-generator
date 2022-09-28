@@ -4,12 +4,19 @@ While reading [The Object Oriented Thought Process](https://www.oreilly.com/libr
 - - -
 
 ## Installation
+`brew install poetry (if you do not already have poetry)`
+
+`gh clone git@github.com:j-a-c-k-goes/uml-generator.git`
 
 ## Use
 `source ~/<bashprofile>`
+
 `uml`
+
 `python3 src/app/uml.py` (use this if you prefer not to use the bash script)
+
 `cd outputs/`
+
 `<open> <output-file>`
 
 ## Future Builds
