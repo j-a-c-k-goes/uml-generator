@@ -1,6 +1,6 @@
 # UML Class Diagram
 
-While reading [The Object Oriented Thought Process](https://www.oreilly.com/library/view/object-oriented-thought-process/9780135182130/), I wanted to reinforce the early concepts I have encountered by buidling a Python program which generates a simple Unified Modeling Language Class diagram; and outputs to a markdown file (located in outputs directory).  
+As a result of my IT Analysis Deisgn & Project Management class, and from reading [The Object Oriented Thought Process](https://www.oreilly.com/library/view/object-oriented-thought-process/9780135182130/), I wanted to reinforce the concept of UML diagrams (and object-oriented desing) by building a Python program which generates a simple Unified Modeling Language Class diagram; and outputs to a markdown file (located in outputs directory).  
 
 - - -
 
